@@ -1,6 +1,5 @@
 
-# Knowing What, How and Why: A Near Complete Solution for Aspect-based
-Sentiment Analysis (In AAAI 2020)
+# Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (In AAAI 2020)
 
 https://arxiv.org/pdf/1911.01616.pdf
 
