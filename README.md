@@ -11,7 +11,7 @@
 
 
 # UPDATE on 9 Sep 2020
-The files in the **ASTE-Data-V2-EMNLP2020** folder are the refined data. We remove triplets that have conflict sentiments in both training, validation and test sets and also append the gold triplets at the end of each sentence to ease the triplet evaluation. We also remove the tagged sentences from the the previous data released in AAAI-20, as the tagging format results in incomplete aspect sentiment triplets. 
+The files in the **ASTE-Data-V2-EMNLP2020** folder are the refined data. We remove triplets that have conflict sentiments in both training, validation and test sets and also append the gold triplets at the end of each sentence to ease the triplet evaluation. We also remove the tagged sentences from the the previous ASTE-Data-V1 data released in AAAI-2020, as the tagging format results in incomplete aspect sentiment triplets. 
 
 The data has the following format: 
 
