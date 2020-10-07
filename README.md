@@ -3,7 +3,7 @@
 [AAAI 2020] [Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (In AAAI 2020)](https://arxiv.org/pdf/1911.01616.pdf)
 
 
-[EMNLP 2020] [Position-Aware Tagging for Aspect Sentiment Triplet Extraction (In EMNLP 2020)](https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE)
+[EMNLP 2020] [Position-Aware Tagging for Aspect Sentiment Triplet Extraction (In EMNLP 2020)](https://arxiv.org/abs/2010.02609)
 
 - Please refer to this **[site](https://github.com/xuuuluuu/Position-Aware-Tagging-for-ASTE)** for source code.
 
