@@ -9,8 +9,24 @@
 
 
 
+# Task Description
+Aspect Sentiment Triplet Extraction (ASTE) is the task of extracting the triplets of target entities, their associated sentiment, and opinion spans explaining the reason for the sentiment. This task is **firstly** proposed by (Peng et al., 2020) in the paper publised in AAAI 2020, [Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis (In AAAI 2020)](https://arxiv.org/pdf/1911.01616.pdf)
 
-# UPDATE on Sep 2020
+For Example:
+
+Given the sentence:
+
+**The screen is very large and crystal clear with amazing colors and resolution .**
+
+The objective of the Aspect Sentiment Triplet Extraction (ASTE) task is to predict the triplets:
+
+**[('screen', 'large', 'Positive'), ('screen', 'clear', 'Positive'), ('colors', 'amazing', 'Positive'), ('resolution', 'amazing', 'Positive')]**
+ 
+where a triplet consists of (target, opinion, sentiment).
+
+
+
+# UPDATES
 The files in the **ASTE-Data-V2-EMNLP2020** folder are the refined data. We remove triplets that have conflicting sentiments in both training, validation and test sets and also append the gold triplets at the end of each sentence to ease the triplet evaluation. We also remove the tagged sentences from the the previous ASTE-Data-V1 data released in AAAI-2020, as the tagging format results in incomplete aspect sentiment triplets. 
 
 The data has the following format: 
