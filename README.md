@@ -40,3 +40,8 @@ If there are multiple triplets in the same sentence:
 For example:
 
 > The screen is very large and crystal clear with amazing colors and resolution .####[([1], [4], 'POS'), ([1], [7], 'POS'), ([10], [9], 'POS'), ([12], [9], 'POS')]
+
+
+
+# Acknowledge
+Our datasets originate from SemEval Challenges ([Pontiki 2014](https://aclanthology.org/S14-2004/); [2015](https://doi.org/10.18653/v1/S15-2082); [2016](https://aclanthology.org/S16-1002/)). The annotation (opinion label) is derived from ([Fan et al. 2019](https://aclanthology.org/N19-1259/)), where they already annotated opinion terms. 
